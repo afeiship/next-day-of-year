@@ -15,8 +15,11 @@ npm install -S @feizheng/next-day-of-year
 ```js
 import '@feizheng/next-day-of-year';
 
-const day1 = new Date('2020-01-01');  // 1
-const day2 = new Date('2020-02-01');  // 32
+const day1 = new Date('2020-01-01');
+const day2 = new Date('2020-02-01');
+
+nx.dayOfYear(day1); // 1
+nx.dayOfYear(day2); // 32
 ```
 
 ## resources

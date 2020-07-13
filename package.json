@@ -1,6 +1,6 @@
 {
   "name": "@feizheng/next-day-of-year",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Javascript calculate the day of the year (1 - 366).",
   "homepage": "https://github.com/afeiship/next-day-of-year",
   "author": {

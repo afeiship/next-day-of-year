@@ -2,8 +2,8 @@
  * name: @feizheng/next-day-of-year
  * description: Javascript calculate the day of the year (1 - 366).
  * homepage: https://github.com/afeiship/next-day-of-year
- * version: 1.0.0
- * date: 2020-07-13T00:26:43.909Z
+ * version: 1.0.1
+ * date: 2020-07-13T00:27:47.673Z
  * license: MIT
  */
 
