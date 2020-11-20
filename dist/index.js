@@ -1,15 +1,15 @@
 /*!
- * name: @feizheng/next-day-of-year
+ * name: @jswork/next-day-of-year
  * description: Javascript calculate the day of the year (1 - 366).
  * homepage: https://github.com/afeiship/next-day-of-year
- * version: 1.0.1
- * date: 2020-07-13T00:27:47.673Z
+ * version: 1.0.0
+ * date: 2020-11-20 18:09:45
  * license: MIT
  */
 
 (function () {
   var global = global || this || window || Function('return this')();
-  var nx = global.nx || require('@feizheng/next-js-core2');
+  var nx = global.nx || require('@jswork/next');
 
   nx.dayOfYear = function (inDay) {
     var day = inDay || new Date();
